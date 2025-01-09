@@ -31,24 +31,6 @@ Your goal is to implement a program in Java that:
 
 ---
 
-### **Pseudocode for Koch Curve**
-The procedure for creating a Koch curve is recursive and can be described with the following pseudocode:
-
-```
-if level < 1 then
-    Move forward length pixels
-else
-    Draw a (level - 1) Koch curve with segments 1/3 the current length
-    Turn left 60 degrees
-    Draw a (level - 1) Koch curve with segments 1/3 the current length
-    Turn right 120 degrees
-    Draw a (level - 1) Koch curve with segments 1/3 the current length
-    Turn left 60 degrees
-    Draw a (level - 1) Koch curve with segments 1/3 the current length
-```
-
----
-
 ### **Instructions**
 
 #### **Part 1: Koch Curve**
