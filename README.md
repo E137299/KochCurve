@@ -1,4 +1,4 @@
-**Java Assignment: Koch Curve and Snowflake**
+# **Recursion: Koch Curve and Snowflake**
 
 ---
 
@@ -10,7 +10,7 @@ One example of a fractal curve is the **Koch curve**, introduced by Swedish math
 1. Start with a straight line.
 2. Divide the line into three equal segments.
 3. Replace the middle segment with two lines that form an equilateral triangle (excluding the base).
-
+![Level One](level1.png)
 At each subsequent step, replace each line segment with a smaller copy of the same pattern. The process continues recursively.
 
 When this pattern is repeated enough times, the Koch curve displays intricate beauty. An even more remarkable figure can be created by joining three Koch curves as if they were the sides of a triangle. This figure is often referred to as the **Koch snowflake**.
