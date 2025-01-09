@@ -18,14 +18,6 @@ When this pattern is repeated enough times, the Koch curve displays intricate be
 ![Snowflake](snowflake.png)
 
 ---
-
-### **Objective**
-Your goal is to implement a program in Java that:
-1. Draws the Koch curve recursively.
-2. Combines three Koch curves to create a Koch snowflake.
-
----
-
 ### **Instructions**
 
 #### **Part 1: Koch Curve**
