@@ -6,6 +6,7 @@
 You can create intricate line drawings by starting with a simple pattern that is recursively subdivided into parts, each of which is a reduced-size copy of the whole. The results are related to mathematical objects called *fractals*, and images generated in this manner are often called *fractal images*.
 
 One example of a fractal curve is the **Koch curve**, introduced by Swedish mathematician Helge von Koch in 1904. You derive a Koch curve by beginning with a straight line, then dividing it into smaller segments and replacing the middle segment with two lines that form an equilateral triangle (excluding the base). At each subsequent step, replace each line segment with a smaller copy of the same pattern. The process continues recursively.
+
 ![Level One](level0.png)
 
 ![Level One](level1.png)
