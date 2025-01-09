@@ -8,7 +8,9 @@ You can create intricate line drawings by starting with a simple pattern that is
 One example of a fractal curve is the **Koch curve**, introduced by Swedish mathematician Helge von Koch in 1904. You derive a Koch curve by beginning with a straight line, then dividing it into smaller segments and replacing the middle segment with two lines that form an equilateral triangle (excluding the base). At each subsequent step, replace each line segment with a smaller copy of the same pattern. The process continues recursively.
 
 ![Level One](level1.png)
+
 ![Level Two](level2.png)
+
 ![Level Three](level3.png)
 
 When this pattern is repeated enough times, the Koch curve displays intricate beauty. An even more remarkable figure can be created by joining three Koch curves as if they were the sides of a triangle. This figure is often referred to as the **Koch snowflake**.
